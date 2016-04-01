@@ -1,4 +1,4 @@
-hoki
+semver-cli
 ======
 TLDR for semantic versioning.
 
@@ -11,6 +11,8 @@ $ npm i -g semver-cli
 ```bash
 $ semver-cli
 ```
+
+[semver-cli](http://i.imgur.com/Fy17Rwj.png)
 
 
 License
