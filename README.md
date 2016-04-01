@@ -12,7 +12,7 @@ $ npm i -g semver-cli
 $ semver-cli
 ```
 
-[semver-cli](http://i.imgur.com/Fy17Rwj.png)
+![semver-cli](http://i.imgur.com/Fy17Rwj.png)
 
 
 License
